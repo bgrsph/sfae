@@ -1,2 +1,2 @@
 # sfae
-Algorithm Extraction for Najeeb Ahmad : Column-Wise SLFC Algorithm
+Algorithm Extraction: Column-Wise SLFC Algorithm
